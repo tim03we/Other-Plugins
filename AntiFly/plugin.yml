@@ -1,0 +1,6 @@
+main: tim03we\antifly\Main
+api: [3.0.0, 4.0.0]
+
+name: AntiFly
+version: 1
+author: tim03we

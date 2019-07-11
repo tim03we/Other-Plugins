@@ -1,0 +1,13 @@
+name: Repair
+main: tim03we\repair\Main
+api: 4.0.0
+version: 1.0
+author: tim03we
+
+commands:
+  repair:
+    description: Repariere deine Items
+    permission: cmd.repair
+permissions:
+  cmd.repair:
+    default: op
